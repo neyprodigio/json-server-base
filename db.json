@@ -6,6 +6,40 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "meninoney@gmail.com",
+      "password": "$2a$10$eP07dY9Xpw82I7ywee/mQOW9CIcLizeWB/bF7NgLmFX56X27AbKKu",
+      "name": "Neey",
+      "age": "24",
+      "id": 2
+    }
+  ],
+  "players": [
+    {
+      "name": "NegoNey",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Nego",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "gef",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "cara Bom",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Menina grauda",
+      "userId": 2,
+      "id": 5
     }
   ]
 }

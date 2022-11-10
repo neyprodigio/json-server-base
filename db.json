@@ -6,14 +6,8 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 2
-    },
-    {
-      "email": "meninoney@gmail.com",
-      "password": "$2a$10$eP07dY9Xpw82I7ywee/mQOW9CIcLizeWB/bF7NgLmFX56X27AbKKu",
-      "name": "Neey",
-      "age": "24",
-      "id": 2
     }
+
   ],
   "players": [
     {
